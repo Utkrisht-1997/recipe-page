@@ -29,7 +29,7 @@ Challenge is to make it compatible with mobile version, which I have yet to do. 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://utkrisht-1997.github.io/recipe-page/)
+- Live Site URL: [https://utkrisht-1997.github.io/recipe-page/](https://utkrisht-1997.github.io/recipe-page/)
 
 ## My process
 
