@@ -74,9 +74,13 @@ export default function App() {
 }
 
 function Header() {
+  console.log(process.env.PUBLIC_URL);
   return (
     <>
-      <img src={"./images/image-omelette.jpeg"} alt="omelette" />
+      <img
+        src={process.env.PUBLIC_URL + "/images/image-omelette.jpeg"}
+        alt="omelette"
+      />
       <h1>Simple Omelette Recipe</h1>
       <p>
         An easy and quick dish, perfect for any meal. This classic omelette
