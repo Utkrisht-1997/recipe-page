@@ -62,8 +62,10 @@ export default function App() {
           </Content>
           <Breaker className="end" />
           <Content header="Nutrition" className="nutrition">
-            The table below shows nutritional values per serving without the
-            additional fillings.
+            <p className="nutrition-info-label">
+              The table below shows nutritional values per serving without the
+              additional fillings.
+            </p>
             <div className="nutrient-table">
               <Nutrient nutrient="Calories" value="277kcal" />
               <Breaker />
@@ -131,8 +133,8 @@ function Content({ header, children, className }) {
 function Point({ header, point }) {
   return (
     <li className="point">
-      <strong className="point-header">{header}:</strong>{" "}
-      <span className="point-content">{point}</span>
+      <strong className="point-header">{header}</strong>
+      <span className="point-content">: {point}</span>
     </li>
   );
 }
