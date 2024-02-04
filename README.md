@@ -21,7 +21,7 @@ This is my first React Project on my own. So please ignore any rookie mistakes
 
 ### The Challenge
 
-Challenge is to make it compatible with mobile version, which I have yet to do. Maybe in future I can come and improve on it.
+Challenge is to make it compatible with mobile version, which I have yet to do. Maybe in future I can come and improve on it.  
 Update :- I have modified CSS styling to make it responsive
 
 ### Screenshot
