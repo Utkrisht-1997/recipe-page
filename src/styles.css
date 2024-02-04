@@ -46,7 +46,7 @@ ol li::marker {
   border-radius: 40px;
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 6.4rem;
   color: #666;
   font-size: 2rem;
 }
@@ -69,7 +69,7 @@ li::marker {
   font-size: 3rem;
   font-weight: 400;
   font-family: "Young Serif", serif;
-  margin-bottom: 2rem;
+  margin-bottom: 1.2rem;
 }
 
 .main-header-title,
@@ -84,10 +84,6 @@ li::marker {
   display: flex;
   flex-direction: column;
   gap: 4rem;
-}
-
-.main-header-body {
-  transform: translateY(-30%);
 }
 
 .header-img-container {
@@ -108,8 +104,8 @@ li::marker {
   font-weight: 400;
   color: #444;
   font-size: 4.8rem;
-  margin-bottom: 4rem;
-  margin-bottom: 4rem;
+  margin-bottom: 3.2rem;
+  line-height: 1.1;
 }
 
 .article-main {
@@ -122,6 +118,7 @@ li::marker {
 .preparation {
   background-color: hsl(330, 100%, 98%);
   padding: 4rem;
+  margin-bottom: 2.4rem;
 }
 
 .preparation-title {
@@ -159,6 +156,10 @@ li::marker {
     border-radius: 0;
     margin: 0;
     padding: 0;
+  }
+
+  .preparation {
+    margin-bottom: 3.2rem;
   }
 
   .header-img-container {
