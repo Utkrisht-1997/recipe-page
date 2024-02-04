@@ -21,7 +21,8 @@ This is my first React Project on my own. So please ignore any rookie mistakes
 
 ### The Challenge
 
-Challenge is to make it compatible with mobile version, which I have yet to do. Maybe in future I can come and improve on it.
+Challenge is to make it compatible with mobile version, which I have yet to do. Maybe in future I can come and improve on it.  
+Update :- I have modified CSS styling to make it responsive
 
 ### Screenshot
 
@@ -50,6 +51,7 @@ I have to continue learning both React and css
 ### Useful resources
 
 - [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/?kw=React&src=sac) - I am learning react from this udemy course and have completed part 1 of it.
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) - I learnt CSS from this course
 
 ## Author
 
